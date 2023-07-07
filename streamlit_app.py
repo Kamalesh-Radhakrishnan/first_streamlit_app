@@ -7,4 +7,4 @@ streamlit.text('Pongal Sambar')
 streamlit.text('Podi Idly')
 streamlit.text('Poori Masal')
 
-streamlit.header('🍌🍑 Create your oen smoothie here! 🍎🥝')
+streamlit.header('Create your oen smoothie here!')
