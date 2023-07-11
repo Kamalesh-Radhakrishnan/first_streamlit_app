@@ -1,3 +1,4 @@
 # requirements.txt
 pip-upgrade
+urllib3<1.27,>=1.21.1
 snowflake-connector-python
